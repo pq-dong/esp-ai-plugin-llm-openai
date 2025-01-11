@@ -18,7 +18,7 @@ espAi({
     // 配置使用插件并且为插件配置api-key
     llm_server: "esp-ai-plugin-llm-openai",
     llm_config: {
-        api_key: "app-xxx", 
+        api_key: "sk-xxx", 
         model: 'gpt-4o-mini'
     },
 
