@@ -1,0 +1,16 @@
+{
+  "name": "esp-ai-plugin-llm-openai",
+  "keywords": [
+    "esp-ai-plugin",
+    "esp-ai-plugin-llm"
+  ],
+  "version": "0.0.2",
+  "description": "让 ESP-AI 支持 openai",
+  "main": "index.js",
+  "scripts": {},
+  "author": "pqdongo@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.78.1"
+  }
+}
